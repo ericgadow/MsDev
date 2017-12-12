@@ -3,3 +3,9 @@ C:\Source\DevR&D\Innovation\PVMicroServices\MSDev\MsLogDetail\bin\Debug\MsLogDet
 C:\Source\DevR&D\Innovation\PVMicroServices\MSDev\MsLogDetail\bin\Debug\MsLogDetail.pdb
 C:\Source\DevR&D\Innovation\PVMicroServices\MSDev\MsLogDetail\obj\Debug\MsLogDetail.exe
 C:\Source\DevR&D\Innovation\PVMicroServices\MSDev\MsLogDetail\obj\Debug\MsLogDetail.pdb
+C:\Source\MsDev\MsLogDetail\bin\Debug\MsLogDetail.exe.config
+C:\Source\MsDev\MsLogDetail\bin\Debug\MsLogDetail.exe
+C:\Source\MsDev\MsLogDetail\bin\Debug\MsLogDetail.pdb
+C:\Source\MsDev\MsLogDetail\obj\Debug\MsLogDetail.csprojResolveAssemblyReference.cache
+C:\Source\MsDev\MsLogDetail\obj\Debug\MsLogDetail.exe
+C:\Source\MsDev\MsLogDetail\obj\Debug\MsLogDetail.pdb
